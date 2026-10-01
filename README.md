@@ -22,6 +22,15 @@ Features:
 Available for Windows and Android.
 
 *Hunter x Hunter: The Real Adventure is a free, non-commercial fan project. Hunter x Hunter and its characters belong to Yoshihiro Togashi and Shueisha. This game is not affiliated with or endorsed by them.*
+<img width="1920" height="1080" alt="01-menu" src="https://github.com/user-attachments/assets/75e0149e-ff9c-47f4-b10b-ba77953824c6" />
+<img width="1920" height="1080" alt="02-boss-fight-foxbear" src="https://github.com/user-attachments/assets/62c97c08-0a57-4184-b286-6ae285a19292" />
+<img width="1920" height="1080" alt="03-kite-and-crazy-slots" src="https://github.com/user-attachments/assets/8d17687c-3098-4e25-af83-4c44403f515a" />
+<img width="1920" height="1080" alt="04-whale-island" src="https://github.com/user-attachments/assets/428894b1-a69a-4cdf-b9a0-f209d3632a3d" />
+<img width="1920" height="1080" alt="05-master-of-the-swamp" src="https://github.com/user-attachments/assets/05d81827-fa0c-4b19-a1af-c1e77ea71b5e" />
+<img width="1920" height="1080" alt="06-the-ship" src="https://github.com/user-attachments/assets/bc884bc1-b213-488a-97ca-344daa1428c7" />
+<img width="1920" height="1080" alt="09-kiriko-chase" src="https://github.com/user-attachments/assets/c8589dab-4945-438a-ac4f-c6e7f887022a" />
 
-Download For Windows & Android 
+*Hunter x Hunter: The Real Adventure is a free, non-commercial fan project. Hunter x Hunter and its characters belong to Yoshihiro Togashi and Shueisha. This game is not affiliated with or endorsed by them.*
+
+Download For Windows & Android : 
 https://mylibrary.itch.io/hxh-real-adventure-ep-1
